@@ -1,0 +1,14 @@
+{
+  "name": "get-iframe-url",
+  "version": "0.0.1",
+  "description": "Get the url from an iframe",
+  "author": {
+    "name": "gokulkrishh",
+    "email": "krishnangokul9@gmail.com",
+    "url": "http://github.com/gokulkrishh/get-iframe-url"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+}
